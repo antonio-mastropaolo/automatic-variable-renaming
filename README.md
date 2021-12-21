@@ -4,10 +4,10 @@ In this work, we present a large-scale study investigating the potential of data
 
 ## Repository Structure:
    
-  - #### <a href="https://github.com/variable-renaming/automatic-variable-renaming/tree/main/Scripts/Models">Code :ledger:</a>
+  - #### <a href="https://github.com/antonio-mastropaolo/automatic-variable-renaming/tree/main/Scripts/TrainingModels">Code :ledger:</a>
       - The code for training and testing the model is available here
   
-  - #### <a href="https://github.com/variable-renaming/automatic-variable-renaming/tree/main/Scripts/Miscellaneous">Miscellaneous :closed_book:</a>
+  - #### <a href="https://github.com/antonio-mastropaolo/automatic-variable-renaming/tree/main/Scripts/Miscellaneous">Miscellaneous :closed_book:</a>
       - Under this path, we also relase extra scripts we used for the experiment. (e.g; the java typename ids resolver)
 
         
