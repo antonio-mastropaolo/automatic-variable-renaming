@@ -1,4 +1,4 @@
-# Automatic variable renaming: Are We There Yet?
+# Automated variable renaming: Are We There Yet?
 
 In this work, we present a large-scale study investigating the potential of data-driven approaches to support automated variable renaming.
 
